@@ -5,3 +5,6 @@ best for bloging
 about.html, contact.html, index.html, layout.html, post.html, move to templates folder
 
 thank you...
+
+
+http://technical-education.com/ , This is my websites, plz visit it , and share your feedback.., Thank you
