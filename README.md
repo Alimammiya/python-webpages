@@ -7,4 +7,4 @@ about.html, contact.html, index.html, layout.html, post.html, move to templates 
 thank you...
 
 
-http://technical-education.com/ , This is my websites, plz visit it , and share your feedback.., Thank you
+https://www.technical-education.com , This is my websites, plz visit it , and share your feedback.., Thank you
